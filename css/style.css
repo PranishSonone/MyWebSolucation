@@ -1,0 +1,79 @@
+.mainBanner {
+  background-image: url("../image/header-banner.jpg");
+  background-color: aqua;
+  height: 100vh;
+  width: 100%;
+
+}
+#bt{
+  background-color: #333;
+   color:#333 ; 
+   color: whitesmoke; 
+   
+}
+#bt:hover{
+background-color:white;
+color: black;
+
+ 
+}
+.text-div{
+  align-items: center;   
+    text-align: center;
+    /* position: relative;
+    top: 350px; */
+    font-family:  Arial, "Helvetica Neue", Helvetica, sans-serife;
+   color: aliceblue;
+}
+.text-div h1{
+    font-size: 50px;
+}
+.text-div p{
+    font-size: 20px;
+}
+.web_application {
+  background-color: #eaeaea;
+}
+.web_application  .container .row h2{
+
+  font-size: 1.8rem;
+  font-weight: bold;
+  
+}
+.mid_para{
+
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: right;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.6;
+ 
+
+}
+.mid_para_2 {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  /* text-align: left; */
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.6;
+
+}
+
+.handel_digital_need {
+  background-color: #333;
+}
+.last-sec{
+  background-color:black;
+}
+.card_heading{
+
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+
+}
+.card_para{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+}
